@@ -39,7 +39,7 @@ class _LoadingState extends State<Loading> {
     return Scaffold(
       backgroundColor: Colors.blue[900],
       body: Center(
-        child: SpinKitWanderingCubes(
+        child: SpinKitHourGlass(
           color: Colors.white,
           size: 50.0,
         ),
